@@ -1,0 +1,33 @@
+.greensock {
+  background: #f7f7c6;
+  text-align: center;
+}
+.main-content {
+  width: 60%;
+  margin: 0 auto;
+  background: #d4c5ca;
+  padding: 20px;
+}
+.box {
+  width:50px;
+  height:50px;
+  position:relative;
+  border-radius:6px;
+  margin-top:4px;
+  display:inline-block;
+  line-height:50px;
+  text-align:center;
+  color:#333;
+  
+}
+
+.green{
+  background-color:#6fb936;
+}
+
+.orange {
+  background-color:#f38630;
+}
+.grey {
+  background-color:#989898;
+}
